@@ -10,9 +10,9 @@ public class Child extends Parent {
     // override and overload Parent's method
     @Override
     public String method(){
-        return "This is the overreiden method!"}
-    public String method(int paramete){
-        return "This is the overloaded method with int paraeter:"+parameter;
+        return "This is the overriden method!";}
+    public String method(int parameter){
+        return "This is the overloaded method with int parameter: "+parameter;
           }  
         
 
